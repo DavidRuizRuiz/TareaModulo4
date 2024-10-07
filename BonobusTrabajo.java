@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
 
 public class BonobusTrabajo extends JFrame {
 
-    // Arreglo de nombres de meses en español
+    //  nombres de meses
     private final String[] meses = {"Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", 
                                     "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"};
 
